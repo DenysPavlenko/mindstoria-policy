@@ -1,0 +1,120 @@
+Privacy Policy
+
+
+Mindstoria is a personal well-being app that helps you track your feelings, emotions, impacts, sleep, and optional thought-based journaling. Your privacy and data security are our top priority.
+
+⸻
+
+1. Information We Collect
+
+Mindstoria collects only the data necessary to provide the core features of the App.
+
+1.1 Data You Provide
+	•	Mood logs (wellbeing level, impacts, emotions)
+	•	CBT-style thought entries (optional)
+	•	Sleep quality entries
+	•	Optional medication notes
+	•	Backup/export data if you choose to export your logs
+
+1.2 Automatically Collected Data
+	•	Crash and app performance data (via Expo/Google Play, if enabled)
+
+We do not collect:
+	•	Personal identity information (name, email, phone number)
+	•	Location data
+	•	Photos, contacts, or any device files
+	•	Sensitive financial information
+
+⸻
+
+2. How We Use Your Data
+
+We use your data only for the following purposes:
+
+2.1 App Functionality
+
+To provide core features such as:
+	•	Logging feelings, impacts, and emotions
+	•	CBT journaling
+	•	Sleep tracking
+	•	Showing charts and insights
+	•	Restoring your data from backup
+
+2.2 Analytics (optional)
+
+Anonymous crash/performance analytics may be collected to improve stability and performance.
+No personal content or logs are ever included in analytics.
+
+⸻
+
+3. Data Storage & Security
+
+All your personal logs (feelings, emotions, CBT entries, sleep, medications) are stored locally on your device, unless you explicitly choose to export them.
+
+Data is encrypted in transit whenever sent over the network (for example, when using updates or backups).
+
+We do not store or access your personal logs on our servers.
+
+⸻
+
+4. Data Sharing
+
+Your personal log data is never shared with any third parties.
+
+The only data that may be shared is:
+	•	Crash/performance analytics, anonymized and aggregated
+This contains no personal content and cannot identify you.
+
+Mindstoria does not share or sell data for advertising or marketing.
+
+⸻
+
+5. Data Retention
+	•	Your logs remain on your device until you delete the app or remove the data manually.
+	•	If you export a backup, you are responsible for its storage.
+	•	Crash analytics may be stored by third-party services (such as Expo or Google Play) for a limited time based on their policies.
+
+⸻
+
+6. Data Deletion Requests
+
+Because Mindstoria does not require accounts and does not store your logs on servers:
+	•	You can delete all your data by deleting the app from your device.
+	•	If you have exported backups, delete those files manually.
+
+If you have questions or want assistance with deletion, contact us at:
+de.pavlenko.dev@gmail.com
+
+⸻
+
+7. Children’s Privacy
+
+Mindstoria is not intended for children under 13.
+We do not knowingly collect personal data from children under 13.
+
+⸻
+
+8. Third-Party Services
+
+Mindstoria may use:
+	•	Expo / Google Play Services for crash reporting and updates
+
+These services may collect technical information (device type, OS version, crash logs) but not your personal notes or journaling data.
+
+Please review their privacy policies as well.
+
+⸻
+
+9. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Updates will be posted on this page with a new “Last updated” date.
+
+⸻
+
+10. Contact Us
+
+If you have questions or requests regarding privacy, contact us:
+
+Email: de.pavlenko.dev@gmail.com
+Developer: Denys Pavlenko
