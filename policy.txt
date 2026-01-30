@@ -43,8 +43,7 @@ To provide core features such as:
 
 2.2 Analytics (optional)
 
-Anonymous crash/performance analytics may be collected to improve stability and performance.
-No personal content or logs are ever included in analytics.
+Anonymous crash/performance analytics and app usage analytics (via Mixpanel) may be collected to improve stability, usability, and performance. No personal content or logs are ever included.
 
 ⸻
 
