@@ -99,8 +99,9 @@ We do not knowingly collect personal data from children under 13.
 
 Mindstoria may use:
 	•	Expo / Google Play Services for crash reporting and updates
+	•	Mixpanel for anonymous analytics of app usage and feature interactions
 
-These services may collect technical information (device type, OS version, crash logs) but not your personal notes or journaling data.
+These services may collect technical information such as device type, OS version, session events, and app usage patterns, but they do not collect your personal logs, thoughts, moods, or journal entries.
 
 Please review their privacy policies as well.
 
